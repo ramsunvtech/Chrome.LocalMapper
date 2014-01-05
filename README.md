@@ -1,4 +1,4 @@
-Chrome.LocalMapper
+chrome-LocalMapper
 ==================
 
-Chrome Plugin for Replace Site File to Your Local File.
+This Chrome Plugin is used to Replace the Online CSS / Javascript File to Our Local File on before Load.
